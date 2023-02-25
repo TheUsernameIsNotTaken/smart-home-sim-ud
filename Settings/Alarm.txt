@@ -1,0 +1,3 @@
+Time	State
+10.00	On
+14.00	Off

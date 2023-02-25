@@ -1,0 +1,3 @@
+Sun	Time	
+Rise	06.55
+Fall	17.02
